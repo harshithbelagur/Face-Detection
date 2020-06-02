@@ -1,3 +1,3 @@
 # Face-Detection
 
-Source - pyimagesearch.com
+Inspired by pyimagesearch.com
